@@ -3,9 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
 Linkedin (https://www.linkedin.com/in/david-krsiztian/)
+<<<<< open to work (remotely)  >>>>>
 
 Try It
 ---
